@@ -52,7 +52,7 @@ Welcome to my GitHub profile!
 - ~~cfgen~~ （準備中のため掲載保留）  
   cfgen is currently under preparation and not listed yet.
 - [**gc-log-analyzer**](https://github.com/kyotalab/gc-log-analyzer)
-  Java GCログの解析CLIツール / Rust GC log visualization tool
+  Rust製 GCログの解析CLIツール / Rust GC log visualization tool
 
 ---
 
