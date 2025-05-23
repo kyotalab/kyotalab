@@ -51,6 +51,8 @@ Welcome to my GitHub profile!
   軽量ファイル転送ミドルウェア / Lightweight file transfer middleware (Coming Soon)
 - ~~cfgen~~ （準備中のため掲載保留）  
   cfgen is currently under preparation and not listed yet.
+- [**gc-log-analyzer**](https://github.com/kyotalab/gc-log-analyzer)
+  Java GCログの解析CLIツール / Rust GC log visualization tool
 
 ---
 
