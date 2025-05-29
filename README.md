@@ -53,6 +53,8 @@ Welcome to my GitHub profile!
   cfgen is currently under preparation and not listed yet.
 - [**gc-log-analyzer**](https://github.com/kyotalab/gc-log-analyzer)
   Rust製 GCログの解析CLIツール / Rust GC log visualization tool
+- [**txtodo**](https://github.com/kyotalab/txtodo)
+  Rust製 todo.txt-cli のミニマル移植　/ A minimal port of Rust's todo.txt-cli
 
 ---
 
