@@ -47,8 +47,8 @@ Welcome to my GitHub profile!
 
 - [**Kairo**](https://github.com/kyotalab/kairo)  
   TUIベースの知的作業空間 / A TUI-based smart workspace
-- **Vento** (Coming Soon 🚀)  
-  軽量ファイル転送ミドルウェア / Lightweight file transfer middleware (Coming Soon)
+- [**Vento**](https://github.com/kyotalab/vento)  
+  軽量ファイル転送ミドルウェア / Lightweight file transfer middleware
 - [**gc-log-analyzer**](https://github.com/kyotalab/gc-log-analyzer)
   Rust製 GCログの解析CLIツール / Rust GC log visualization tool
 - [**txtodo**](https://github.com/kyotalab/txtodo)
